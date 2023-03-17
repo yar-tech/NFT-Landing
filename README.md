@@ -18,4 +18,5 @@ In parallel, open the second terminal and run this code:
 ```bash
   npm run svgSprive
 ```
-## 🔗 Demo[nft-land32.netlify.app]
+## 🔗 Demo
+[nft-land32.netlify.app](https://nft-land32.netlify.app/)
