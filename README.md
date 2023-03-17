@@ -18,4 +18,4 @@ In parallel, open the second terminal and run this code:
 ```bash
   npm run svgSprive
 ```
-## 🔗 Demo
+## 🔗 Demo(https://boisterous-mandazi-d57f64.netlify.app)
