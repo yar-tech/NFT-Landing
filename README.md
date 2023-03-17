@@ -1,15 +1,10 @@
-NFT Landing HTML, SCSS, Js, Gulp! 
-Screnshot 
-![nft-land-screen](https://user-images.githubusercontent.com/107246526/226020328-f9c25cbf-8b94-49c8-909a-57d49e1e2479.jpeg)
 # NFT Landing HTML, SCSS, Js, Gulp
 
 Modern NFT landing based on HTML, SCSS, Js and Gulp, the process of work was shown on YouTube
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/1Zjh96Y/15.jpg)
-## The process of work
+!![nft-land-screen](https://user-images.githubusercontent.com/107246526/226020328-f9c25cbf-8b94-49c8-909a-57d49e1e2479.jpeg)
 
-Watch Process on Youtube: https://www.youtube.com/playlist?list=PLu0pRheOFLkEmnlzsKsEjapldwlXd18Ba
 ## Installation
 
 Intsall & Run
